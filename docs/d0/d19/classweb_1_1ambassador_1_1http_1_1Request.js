@@ -1,0 +1,26 @@
+var classweb_1_1ambassador_1_1http_1_1Request =
+[
+    [ "Request", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a06bd7503cf8f5ac99a4160ca2604b84c", null ],
+    [ "getBody", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a9f4475f2ddb248d31fb40fedc7f8be60", null ],
+    [ "getCookie", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#ab5dbfb06aed75ac3212da8221eec4992", null ],
+    [ "getHeaders", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a7922d6d1a920a2796c0aa07d44a2f691", null ],
+    [ "getMethod", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a7a02c128b15ece3c184fd51e4a44d796", null ],
+    [ "getParam", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#abfff68d56acf457d44153170812e7dc6", null ],
+    [ "getPath", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a5ffa06b2b94a8b24d74a0f803dfe43ef", null ],
+    [ "getPathParam", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a554e618de582135f2c343b4e99b30730", null ],
+    [ "getPathParams", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#aa85a74f6a7a3e4f7816f8e4f91b5e55c", null ],
+    [ "getPostParam", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a4ab3c1dccb6ebcab99515757d775475b", null ],
+    [ "getPostParams", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a94d399fb31ab17f83783c354372a04ad", null ],
+    [ "getQueryParam", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#adbcc25219ca7baa955c25e29721e13de", null ],
+    [ "getQueryParams", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a5412d717bbb22cf4c06fc3d8e09ecbe8", null ],
+    [ "getUploadedFiles", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a1fe2ce6764b1a9d263a6fe830b755dd7", null ],
+    [ "hasCookie", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a0b372fc061de86d61d20f1519d5f0b1d", null ],
+    [ "parseCookies", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a8bc75ed884fbead563b52a2dc3e2b953", null ],
+    [ "parseMultipartData", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a81901fe6d4c240c07b264350a32e1712", null ],
+    [ "parsePostData", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a739cabe71d6a9782f784618a9008857e", null ],
+    [ "parseQueryString", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a49c4c2491e8d66e4d294a145381be9d4", null ],
+    [ "setBody", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#aa2bcc9a37125d4fb1fff493c213e3b3b", null ],
+    [ "setCookie", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#ad41144fbb92a90af71ed79baa241fc6d", null ],
+    [ "setMethod", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#a050709f05b4af330b799a906918579e7", null ],
+    [ "setPath", "d0/d19/classweb_1_1ambassador_1_1http_1_1Request.html#af03605273f3b518180d3fad16b0a04a3", null ]
+];

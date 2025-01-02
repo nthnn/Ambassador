@@ -1,0 +1,5 @@
+<map id="web.ambassador.view.Dom" name="web.ambassador.view.Dom">
+<area shape="rect" id="Node000001" title="Represents an HTML DOM (Document Object Model) element that can be dynamically constructed and render..." alt="" coords="6,93,187,119"/>
+<area shape="rect" id="Node000002" href="$de/d40/interfaceweb_1_1ambassador_1_1view_1_1ViewContent.html" title="Represents content that can be rendered as part of a web response." alt="" coords="5,5,188,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,59,99,93,94,93,94,59"/>
+</map>

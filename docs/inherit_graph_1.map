@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,13,97,38"/>
+<area shape="rect" id="Node000001" href="$d6/d53/classweb_1_1ambassador_1_1core_1_1KernelHandler.html" title="The KernelHandler class is responsible for handling incoming HTTP requests and returning appropriate ..." alt="" coords="145,5,336,45"/>
+<area shape="poly" id="edge2_Node000000_Node000001" title=" " alt="" coords="111,23,145,23,145,28,111,28"/>
+</map>

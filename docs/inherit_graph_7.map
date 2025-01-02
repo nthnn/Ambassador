@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$da/d7e/interfaceweb_1_1ambassador_1_1core_1_1ErrorController.html" title="The ErrorController interface defines the contract for handling HTTP errors within the web framework." alt="" coords="5,5,187,45"/>
+<area shape="rect" id="Node000001" href="$d7/d67/classweb_1_1ambassador_1_1core_1_1DefaultErrorController.html" title="The DefaultErrorController is a default implementation of the ErrorController interface." alt="" coords="235,5,429,45"/>
+<area shape="poly" id="edge5_Node000000_Node000001" title=" " alt="" coords="201,23,234,23,234,28,201,28"/>
+</map>

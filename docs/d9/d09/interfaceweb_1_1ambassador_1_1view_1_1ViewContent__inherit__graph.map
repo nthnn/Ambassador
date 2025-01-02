@@ -1,0 +1,13 @@
+<map id="web.ambassador.view.ViewContent" name="web.ambassador.view.ViewContent">
+<area shape="rect" id="Node000001" title="Represents content that can be rendered as part of a web response." alt="" coords="5,112,188,152"/>
+<area shape="rect" id="Node000002" href="$dc/d3a/classweb_1_1ambassador_1_1view_1_1AssetContent.html" title="Represents the content of an asset that can be rendered as part of a web response." alt="" coords="253,5,439,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,103,186,78,235,55,268,43,270,48,237,60,188,83,143,107"/>
+<area shape="rect" id="Node000003" href="$dc/d23/classweb_1_1ambassador_1_1view_1_1Dom.html" title="Represents an HTML DOM (Document Object Model) element that can be dynamically constructed and render..." alt="" coords="255,70,437,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,109,281,93,282,98,202,114"/>
+<area shape="rect" id="Node000004" href="$db/dd2/classweb_1_1ambassador_1_1view_1_1EmptyView.html" title="Represents an empty view content, typically used as a placeholder for views that do not need to rende..." alt="" coords="236,119,456,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,129,236,129,236,135,202,135"/>
+<area shape="rect" id="Node000005" href="$dc/d50/classweb_1_1ambassador_1_1view_1_1JsonContent.html" title="Represents JSON content that can be rendered as part of an HTTP response." alt="" coords="255,169,437,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="198,153,259,167,258,172,197,158"/>
+<area shape="rect" id="Node000006" href="$d3/ddd/classweb_1_1ambassador_1_1view_1_1PlainText.html" title="Represents plain text content that can be rendered as part of an HTTP response." alt="" coords="243,234,449,259"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="136,158,183,190,237,219,275,231,273,236,235,224,180,195,133,163"/>
+</map>

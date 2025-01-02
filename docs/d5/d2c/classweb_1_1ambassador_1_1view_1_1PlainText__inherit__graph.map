@@ -1,0 +1,5 @@
+<map id="web.ambassador.view.PlainText" name="web.ambassador.view.PlainText">
+<area shape="rect" id="Node000001" title="Represents plain text content that can be rendered as part of an HTTP response." alt="" coords="5,93,212,119"/>
+<area shape="rect" id="Node000002" href="$de/d40/interfaceweb_1_1ambassador_1_1view_1_1ViewContent.html" title="Represents content that can be rendered as part of a web response." alt="" coords="17,5,200,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,59,111,93,106,93,106,59"/>
+</map>

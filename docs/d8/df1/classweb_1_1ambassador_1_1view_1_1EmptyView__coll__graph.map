@@ -1,0 +1,5 @@
+<map id="web.ambassador.view.EmptyView" name="web.ambassador.view.EmptyView">
+<area shape="rect" id="Node000001" title="Represents an empty view content, typically used as a placeholder for views that do not need to rende..." alt="" coords="5,93,225,119"/>
+<area shape="rect" id="Node000002" href="$de/d40/interfaceweb_1_1ambassador_1_1view_1_1ViewContent.html" title="Represents content that can be rendered as part of a web response." alt="" coords="24,5,207,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,59,118,93,113,93,113,59"/>
+</map>
