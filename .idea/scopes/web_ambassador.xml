@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="web.ambassador" pattern="(src:web.ambassador.annotations.*||src:web.ambassador.core.*||src:web.ambassador.db.*||src:web.ambassador.enums.*||src:web.ambassador.http.*||src:web.ambassador.util.*||src:web.ambassador.view.*)&amp;&amp;!src:assets.images.*&amp;&amp;!src:assets.styles..*&amp;&amp;!src:assets.images..*&amp;&amp;!src:com.example.app..*&amp;&amp;!src:com.example.app.controllers..*||src:web.ambassador.*||file:src/web/ambassador/package-info.java||file:src/web/package-info.java||file[Ambassador]:META-INF/*" />
+</component>

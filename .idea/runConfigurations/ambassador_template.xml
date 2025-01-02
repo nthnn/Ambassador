@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ambassador-template" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.example.app.WebApplication" />
+    <module name="Ambassador" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
