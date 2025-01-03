@@ -17,7 +17,6 @@
 import os
 import re
 import shutil
-import subprocess
 
 def replace_in_file(filename, original, replacement):
     try:
@@ -59,13 +58,6 @@ if not is_valid_java_package(package_name):
         "dot-separated."
     )
     exit()
-
-subprocess.run([
-    "git", "clone",
-    "https://github.com/nthnn/Ambassador",
-    "--depth=1",
-    "--quiet"
-])
 
 shutil.rmtree(os.path.join("Ambassador", ".git"))
 shutil.rmtree(os.path.join("Ambassador", "docs"))
